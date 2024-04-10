@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HashTables/1.0.0": {
+        "dependencies": {
+          "BinarySearchTree": "1.0.0",
+          "DataStructuresCommon": "1.0.0",
+          "Lists": "1.0.0"
+        },
+        "runtime": {
+          "HashTables.dll": {}
+        }
+      },
+      "BinarySearchTree/1.0.0": {
+        "dependencies": {
+          "DataStructuresCommon": "1.0.0",
+          "Lists": "1.0.0"
+        },
+        "runtime": {
+          "BinarySearchTree.dll": {}
+        }
+      },
+      "DataStructuresCommon/1.0.0": {
+        "runtime": {
+          "DataStructuresCommon.dll": {}
+        }
+      },
+      "Lists/1.0.0": {
+        "dependencies": {
+          "DataStructuresCommon": "1.0.0"
+        },
+        "runtime": {
+          "Lists.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HashTables/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BinarySearchTree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataStructuresCommon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lists/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

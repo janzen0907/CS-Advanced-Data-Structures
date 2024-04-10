@@ -1,0 +1,12 @@
+C:\Users\janzen0907\OneDrive - Saskatchewan Polytechnic\COSC 286\COSC286\DataStructuresCommon\bin\Debug\net6.0\DataStructureCommon.deps.json
+C:\Users\janzen0907\OneDrive - Saskatchewan Polytechnic\COSC 286\COSC286\DataStructuresCommon\bin\Debug\net6.0\DataStructureCommon.dll
+C:\Users\janzen0907\OneDrive - Saskatchewan Polytechnic\COSC 286\COSC286\DataStructuresCommon\bin\Debug\net6.0\DataStructureCommon.pdb
+C:\Users\janzen0907\OneDrive - Saskatchewan Polytechnic\COSC 286\COSC286\DataStructuresCommon\obj\Debug\net6.0\DataStructureCommon.csproj.AssemblyReference.cache
+C:\Users\janzen0907\OneDrive - Saskatchewan Polytechnic\COSC 286\COSC286\DataStructuresCommon\obj\Debug\net6.0\DataStructureCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janzen0907\OneDrive - Saskatchewan Polytechnic\COSC 286\COSC286\DataStructuresCommon\obj\Debug\net6.0\DataStructureCommon.AssemblyInfoInputs.cache
+C:\Users\janzen0907\OneDrive - Saskatchewan Polytechnic\COSC 286\COSC286\DataStructuresCommon\obj\Debug\net6.0\DataStructureCommon.AssemblyInfo.cs
+C:\Users\janzen0907\OneDrive - Saskatchewan Polytechnic\COSC 286\COSC286\DataStructuresCommon\obj\Debug\net6.0\DataStructureCommon.csproj.CoreCompileInputs.cache
+C:\Users\janzen0907\OneDrive - Saskatchewan Polytechnic\COSC 286\COSC286\DataStructuresCommon\obj\Debug\net6.0\DataStructureCommon.dll
+C:\Users\janzen0907\OneDrive - Saskatchewan Polytechnic\COSC 286\COSC286\DataStructuresCommon\obj\Debug\net6.0\refint\DataStructureCommon.dll
+C:\Users\janzen0907\OneDrive - Saskatchewan Polytechnic\COSC 286\COSC286\DataStructuresCommon\obj\Debug\net6.0\DataStructureCommon.pdb
+C:\Users\janzen0907\OneDrive - Saskatchewan Polytechnic\COSC 286\COSC286\DataStructuresCommon\obj\Debug\net6.0\ref\DataStructureCommon.dll

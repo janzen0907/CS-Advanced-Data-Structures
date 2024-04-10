@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AdjListGraphs/1.0.0": {
+        "dependencies": {
+          "Graphs": "1.0.0",
+          "Lists": "1.0.0"
+        },
+        "runtime": {
+          "AdjListGraphs.dll": {}
+        }
+      },
+      "DataStructuresCommon/1.0.0": {
+        "runtime": {
+          "DataStructuresCommon.dll": {}
+        }
+      },
+      "Graphs/1.0.0": {
+        "runtime": {
+          "Graphs.dll": {}
+        }
+      },
+      "Lists/1.0.0": {
+        "dependencies": {
+          "DataStructuresCommon": "1.0.0"
+        },
+        "runtime": {
+          "Lists.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdjListGraphs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataStructuresCommon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Graphs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lists/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
